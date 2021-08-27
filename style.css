@@ -45,6 +45,13 @@ input[type="checkbox"]:checked {
 label {
     text-transform: lowercase;
 }
-
-
-
+#important::first-letter {
+    color: lime;
+    font-size: 90px;
+}
+h1:hover {
+    color: navy;
+}
+a:visited {
+    color: silver;
+}
